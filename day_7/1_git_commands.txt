@@ -3,3 +3,11 @@
 
 2. git remote add origin <repo-ssh-link>
     Here "git remote add" is the command to add the remote alias name
+
+3. git remove -v
+    List all the remotes in the repo
+
+4. git remote remove origin
+    It removes remote from the local repo
+
+5. git
